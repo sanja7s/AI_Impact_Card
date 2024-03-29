@@ -4,7 +4,7 @@ Designs for the AI Impact Assessment Card accessible for various types of audien
 
 
 
-Welcome to our project's documentation hub. Here, you will find comprehensive insights and reports on various aspects of our project, including design patterns that we identified, impact assessments, in the forms of reports and cards. 
+Welcome to our project's documentation hub. Here, you will find comprehensive insights and reports on various aspects of our project, including design patterns that we identified, and impact assessments, in the forms of reports and cards. 
 
 ## Table of Contents
 
