@@ -18,7 +18,7 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 
 ## Design Patterns
 
-- **[Design Patterns for AI Risk and Benefit Communication](design-patterns-for-AI-risk-and-benefit-communication.pdf)**: A comprehensive guide on the design patterns that should be considered for communicating the risks and benefits associated with AI technologies.
+- **[Design Patterns for AI Risk and Benefit Communication](design-patterns-for-AI-risk-and-benefit-communication.pdf)**: A guide on the design patterns that should be considered for communicating the risks and benefits associated with AI technologies.
 
 ## Impact Assessment Reports
 
