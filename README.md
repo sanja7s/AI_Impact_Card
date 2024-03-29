@@ -1,4 +1,4 @@
-# AI_Impact_Card
+# AI Impact Assessment Card
 ### Project Documentation Repository
 Designs for the AI Impact Assessment Card accessible for various types of audience from technical or ordinary individuals.
 
