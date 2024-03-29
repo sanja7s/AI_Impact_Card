@@ -18,27 +18,27 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 
 ## Design Patterns
 
-- **[Design Patterns for AI Risk and Benefit Communication](https://github.com/your-username/your-repo-name/blob/main/design-patterns-for-AI-risk-and-benefit-communication.pdf)**: A comprehensive guide on the design patterns that should be considered for communicating the risks and benefits associated with AI technologies.
+- **[Design Patterns for AI Risk and Benefit Communication](design-patterns-for-AI-risk-and-benefit-communication.pdf)**: A comprehensive guide on the design patterns that should be considered for communicating the risks and benefits associated with AI technologies.
 
 ## Impact Assessment Reports
 
 ### Biometric Checkout
 
-- **[Impact Assessment Card - Biometric Checkout](https://github.com/your-username/your-repo-name/blob/main/impact-assessment-card-biometric-checkout.pdf)**: An initial assessment of the impact, benefits, and potential risks of implementing biometric checkout technologies.
+- **[Impact Assessment Card - Biometric Checkout](impact-assessment-card-biometric-checkout.pdf)**: An initial assessment of the impact, benefits, and potential risks of implementing biometric checkout technologies.
 
 ### Licence Plate Detector
 
-- **[Impact Assessment Card - Licence Plate Detector](https://github.com/your-username/your-repo-name/blob/main/impact-assessment-card-license-plate-detector.pdf)**: An evaluation of the implications, advantages, and challenges of using licence plate detection systems.
+- **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector.pdf)**: An evaluation of the implications, advantages, and challenges of using licence plate detection systems.
 
 ## Detailed Implementation Reports
 
 ### Biometric Checkout
 
-- **[Report - Biometric Checkout](https://github.com/your-username/your-repo-name/blob/main/report-biometric-checkout.pdf)**: A detailed report on the implementation, findings, and analysis of the biometric checkout system within our project.
+- **[Report - Biometric Checkout](report-biometric-checkout.pdf)**: A detailed report on the implementation, findings, and analysis of the biometric checkout system within our project.
 
 ### Licence Plate Detector
 
-- **[Report - Licence Plate Detector](https://github.com/your-username/your-repo-name/blob/main/report-license-plate-detector.pdf)**: An in-depth exploration of the licence plate detector's deployment, effectiveness, and areas for improvement.
+- **[Report - Licence Plate Detector](report-license-plate-detector.pdf)**: An in-depth exploration of the licence plate detector's deployment, effectiveness, and areas for improvement.
 
 ---
 
