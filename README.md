@@ -25,22 +25,22 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 
 ### Biometric Checkout
 
-- **[Report - Biometric Checkout](report-biometric-checkout.pdf)**: A detailed report on the implementation, findings, and analysis of the biometric checkout system within our project.
+- **[Report - Biometric Checkout](report-biometric-checkout.pdf)**: A detailed report on the implementation, risks, and benefits of the biometric checkout system that we studied.
 
 ### Licence Plate Detector
 
-- **[Report - Licence Plate Detector](report-license-plate-detector.pdf)**: An in-depth exploration of the licence plate detector's deployment, effectiveness, and areas for improvement.
+- **[Report - Licence Plate Detector](report-license-plate-detector.pdf)**: A detailed report on the implementation, risks, and benefits of licence plate detector's system that we studied.
 
 
-## Impact Assessment Cards
+## Impact Assessment Cards (our proposed design)
 
 ### Biometric Checkout
 
-- **[Impact Assessment Card - Biometric Checkout](impact-assessment-card-biometric-checkout.pdf)**: An initial assessment of the impact, benefits, and potential risks of implementing biometric checkout technologies.
+- **[Impact Assessment Card - Biometric Checkout](impact-assessment-card-biometric-checkout.pdf)**: A concise assessment of the impact, benefits, and riskss of implementing biometric checkout technologies.
 
 ### Licence Plate Detector
 
-- **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector.pdf)**: An evaluation of the implications, advantages, and challenges of using licence plate detection systems.
+- **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
 
 
 ---
