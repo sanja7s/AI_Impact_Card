@@ -12,7 +12,7 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 - [Detailed Implementation Reports](#detailed-implementation-reports)
   - [Biometric Checkout](#biometric-checkout-1)
   - [Licence Plate Detector](#licence-plate-detector-1)
-- [Impact Assessment Reports](#impact-assessment-reports)
+- [Impact Assessment Cards](#impact-assessment-cards)
   - [Biometric Checkout](#biometric-checkout)
   - [Licence Plate Detector](#licence-plate-detector)
 
@@ -32,7 +32,7 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 - **[Report - Licence Plate Detector](report-license-plate-detector.pdf)**: A detailed report on the implementation, risks, and benefits of licence plate detector's system that we studied.
 
 
-## Impact Assessment Cards (our proposed design)
+## Impact Assessment Cards
 
 ### Biometric Checkout
 
