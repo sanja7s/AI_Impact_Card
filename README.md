@@ -27,7 +27,7 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 
 - **[Report - Biometric Checkout](report-biometric-checkout.pdf)**: A detailed report on the implementation, risks, and benefits of the biometric checkout system that we studied.
 
-- - **[Report - Biometric Checkout Braille](report-biometric-checkout-braille.pdf)**: A detailed report on the implementation, risks, and benefits of the biometric checkout system that we studied.
+- **[Report - Biometric Checkout Braille](report-biometric-checkout-braille.pdf)**: A detailed report on the implementation, risks, and benefits of the biometric checkout system that we studied.
 
 ### Licence Plate Detector
 
