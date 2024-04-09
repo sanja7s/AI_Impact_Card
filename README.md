@@ -47,6 +47,15 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 - **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
 
 
+## Updated Impact Assessment Cards
+
+### Biometric Checkout
+
+- **[Impact Assessment Card - Biometric Checkout](impact-assessment-card-biometric-checkout-version5.pdf)**: A concise assessment of the impact, benefits, and riskss of implementing biometric checkout technologies.
+  
+### Licence Plate Detector
+
+- **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
 ---
 
 
