@@ -56,6 +56,14 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 ### Licence Plate Detector
 
 - **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
+
+### Urban Feedback System
+
+- **[Impact Assessment Card - Urban Feedback System](impact-assessment-card-urban-feedback.pdf)**: A concise assessment of the impacts, benefits, and risks of using urban feedback systems.
+
+### Music Recommender System
+
+- **[Impact Assessment Card - Music Recommender System](impact-assessment-card-music-recommender.pdf)**: A concise assessment of the impacts, benefits, and risks of using music recommender systems.
 ---
 
 
