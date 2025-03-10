@@ -51,25 +51,23 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 
 ### Biometric Checkout
 
-- **[Impact Assessment Card - Biometric Checkout](card-biometric-checkout-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of implementing biometric checkout technologies.
+- **[Impact Assessment Card - Biometric Checkout](impact-assessment-card-biometric-checkout-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of implementing biometric checkout technologies.
 
 ### Licence Plate Detector
 
-- **[Impact Assessment Card - Licence Plate Detector (Version 5)](card-license-plate-detector-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
-
-- **[Impact Assessment Card - Licence Plate Detector (Previous Version)](card-license-plate-detector.pdf)**: A previous version of the concise assessment of impacts, benefits, and risks for licence plate detection systems.
+- **[Impact Assessment Card - Licence Plate Detector (Version 5)](impact-assessment-card-license-plate-detector-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
 
 ### Urban Feedback System
 
-- **[Impact Assessment Card - Urban Feedback System](impact-assessment-card-urban-feedback.pdf)**: A concise assessment of the impacts, benefits, and risks of using urban feedback systems.
+- **[Impact Assessment Card - Urban Feedback System](impact-assessment-impact-assessment-card-urban-feedback.pdf)**: A concise assessment of the impacts, benefits, and risks of using urban feedback systems.
 
 ### Music Recommender System
 
-- **[Impact Assessment Card - Music Recommender System](card-music-recommender.pdf)**: A concise assessment of the impacts, benefits, and risks of using music recommender systems.
+- **[Impact Assessment Card - Music Recommender System](impact-assessment-card-music-recommender.pdf)**: A concise assessment of the impacts, benefits, and risks of using music recommender systems.
 
 ### Housing Benefit Allocation Assistant
 
-- **[Impact Assessment Card - Housing Benefit Allocation Assistant](card-benefit-assistant.pdf)**: A concise assessment of the impacts, benefits, and risks associated with using an AI assistant for allocating housing benefits.
+- **[Impact Assessment Card - Housing Benefit Allocation Assistant](impact-assessment-card-benefit-assistant.pdf)**: A concise assessment of the impacts, benefits, and risks associated with using an AI assistant for allocating housing benefits.
 
 ---
 
