@@ -55,7 +55,7 @@ Welcome to our project's documentation hub. Here, you will find comprehensive in
 
 ### Licence Plate Detector
 
-- **[Impact Assessment Card - Licence Plate Detector (Version 5)](impact-assessment-card-license-plate-detector-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
+- **[Impact Assessment Card - Licence Plate Detector](impact-assessment-card-license-plate-detector-version5.pdf)**: A concise assessment of the impacts, benefits, and risks of using licence plate detection systems.
 
 ### Urban Feedback System
 
